@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MUSTANG ECOBOOST L4 IMP AUT 2 ABS CA CE_534915</name>
+   <tag></tag>
+   <elementGuidId>24377dd0-72fe-4b69-aab0-d15b6fc07214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@value='01120102014']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c99bb0e0-2757-4f5b-919c-f21ab61ad076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option version-opt</value>
+      <webElementGuid>780c68b7-8e27-414d-82c7-75e66f8249cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>01120102014</value>
+      <webElementGuid>ab7d75f3-0fdd-4a77-9a66-152c6b9c3a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MUSTANG ECOBOOST L4 IMP AUT 2 ABS CA CE PIEL SM SQ CB </value>
+      <webElementGuid>dee46167-951a-4cc5-988a-667b417039b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/block-ui[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row page-container IE-footer-container&quot;]/div[@class=&quot;col-12 p-0 content-wrap&quot;]/app-quote[1]/div[@class=&quot;d-flex flex-column&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/app-version[1]/div[@class=&quot;col-sm-12 offset-sm-0 col-md-10 offset-md-1 col-lg-8 offset-lg-2&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-12 col-lg-8 col-xl-8 col-xxl-7&quot;]/chubb-select[1]/div[@class=&quot;d-flex align-items-center justify-content-start margin-top-sm-3&quot;]/div[@class=&quot;chubb-select-container row d-flex align-items-center justify-content-start version-container&quot;]/div[@class=&quot;option-container d-flex justify-content-center&quot;]/div[@class=&quot;option version-opt&quot;]</value>
+      <webElementGuid>c9e7e768-1bc4-45d2-8490-1a93301f998c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@value='01120102014']</value>
+      <webElementGuid>597e2451-4249-45e4-9275-35a81f0d8c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSTANG BULLITT V8 IMP STD 2 ABS CA CE PIEL SM SQ CB'])[1]/following::div[2]</value>
+      <webElementGuid>45e0d9a6-5e9d-4917-8a80-1475e6bad9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué versión tienes?'])[1]/following::div[7]</value>
+      <webElementGuid>1560037a-292f-4002-9e6e-293e84c7444d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSTANG GT CONVERTIBLE V8 IMP AUT 2 ABS CA CE PIEL CT SQ CB'])[1]/preceding::div[1]</value>
+      <webElementGuid>5db32619-596a-4371-b9ab-7378bcc0db23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSTANG GT V8 IMP AUT 2 ABS CA CE PIEL CT SQ CB'])[1]/preceding::div[3]</value>
+      <webElementGuid>b3c66698-2328-47f9-954e-c4afeefb5fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MUSTANG ECOBOOST L4 IMP AUT 2 ABS CA CE PIEL SM SQ CB']/parent::*</value>
+      <webElementGuid>4f62cbe2-3133-46e8-a855-5a368aa25e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//chubb-select/div/div/div[2]/div</value>
+      <webElementGuid>451be07c-ce04-476f-a84e-97d0eb767097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' MUSTANG ECOBOOST L4 IMP AUT 2 ABS CA CE PIEL SM SQ CB ' or . = ' MUSTANG ECOBOOST L4 IMP AUT 2 ABS CA CE PIEL SM SQ CB ')]</value>
+      <webElementGuid>976c1c49-aaab-49b3-bf15-1025edcb6883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
