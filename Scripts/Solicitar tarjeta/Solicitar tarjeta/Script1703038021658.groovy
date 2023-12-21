@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('Object Repository/Presencial/Page_Solicitud de Tar
     'Miguel')
 
 WebUI.setText(findTestObject('Object Repository/Presencial/Page_Solicitud de Tarjeta de Crdito en Lnea_f35c3f/input_Primer Apellido_informacion-personal-_dab627'), 
-    'De León')
+    'De Leon')
 
 WebUI.setText(findTestObject('Object Repository/Presencial/Page_Solicitud de Tarjeta de Crdito en Lnea_f35c3f/input_Segundo Apellido_informacion-personal_ab76c1'), 
     'Presencial')
